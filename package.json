@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "babelify": "^6.0.1",
+    "gulp": "*",
+    "gulp-babel": "^5.0.0",
+    "react": "^0.13.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
